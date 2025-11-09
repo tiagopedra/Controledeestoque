@@ -1,22 +1,3 @@
-Documentação em TXT CONTROLE DE ESTOQUE (AUTOPEÇAS)
-
-ANTONIO NETO
-GUSTAVO GIROTO
-VICTOR ANHAYA
-
-
-
-Nós fizemos o model de vendas para nosso sistema de controle de estoque, e para isso a gente utilizou a quantidade de estoque 
-
-* (vezes) o preço unitário, calculando automaticamente o preço da venda. Um exemplo prático seria: o usuário escolher duas bandejas 
-
-de suspensão com preço unitário de: R$380,00 o resultado seria R$ 760,00. No nosso caso, esse valor já é preenchido automaticamente
-
-para o usuário 
-
-
-
-
 DOCUMENTAÇÃO DO FRONTEND 
 
 
